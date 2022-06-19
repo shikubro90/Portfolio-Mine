@@ -27,20 +27,20 @@ const experience = () => {
 
                         <article className='experience__details'>
                             <BsPatchCheckFill/>
-                            <h4>JavaScript</h4>
+                            <h4>HTML5</h4>
                             <small className='text-light'>Experience 95% </small>
                         </article>
 
                         <article className='experience__details'>
                             <BsPatchCheckFill/>
-                            <h4>Tailwind</h4>
+                            <h5>HTML5</h4>
                             <small className='text-light'>Experience 95% </small>
                         </article>
 
                         <article className='experience__details'>
                             <BsPatchCheckFill/>
-                            <h5>React</h5>
-                            <small className='text-light'>Experience</small>
+                            <h5>HTML5</h5>
+                            <small className='text-light'>Experience 95% </small>
                         </article>
 
                         <article className='experience__details'>

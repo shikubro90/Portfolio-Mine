@@ -39,8 +39,8 @@ const experience = () => {
 
                         <article className='experience__details'>
                             <BsPatchCheckFill/>
-                            <h5>React</h5>
-                            <small className='text-light'>Experience</small>
+                            <h5>HTML5</h5>
+                            <small className='text-light'>Experience 95% </small>
                         </article>
 
                         <article className='experience__details'>
