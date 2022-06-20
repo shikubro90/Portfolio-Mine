@@ -14,7 +14,6 @@ const experience = () => {
                 <div className="experience__frontend">
                     <h3>Fronted Development</h3>
                     <div className="experience__content">
-                        
                         <article className='experience__details'>
                             <BsPatchCheckFill/>
                             <div>
@@ -89,34 +88,26 @@ const experience = () => {
 
                         <article className='experience__details'>
                             <BsPatchCheckFill/>
-                            <div>
-                                <h4>Tailwind</h4>
-                                <small className='text-light'>Experience 95% </small>
-                            </div>
+                            <h4>MySqL</h4>
+                            <small className='text-light'>Experience 95% </small>
                         </article>
 
                         <article className='experience__details'>
                             <BsPatchCheckFill/>
-                            <div>
-                                <h4>Tailwind</h4>
-                                <small className='text-light'>Experience 95% </small>
-                            </div>
+                            <h4>Python</h4>
+                            <small className='text-light'>Experience 95% </small>
                         </article>
 
                         <article className='experience__details'>
                             <BsPatchCheckFill/>
-                            <div>
-                                <h4>Tailwind</h4>
-                                <small className='text-light'>Experience 95% </small>
-                            </div>
+                            <h5>Bootstrap</h5>
+                            <small className='text-light'>Experience</small>
                         </article>
 
                         <article className='experience__details'>
                             <BsPatchCheckFill/>
-                            <div>
-                                <h4>Tailwind</h4>
-                                <small className='text-light'>Experience 95% </small>
-                            </div>
+                            <h5>React Native</h5>
+                            <small className='text-light'>Experience 95% </small>
                         </article>
                     </div>
                 </div>
