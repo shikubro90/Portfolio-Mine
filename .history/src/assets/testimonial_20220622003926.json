@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "01",
+        "name" : "Client 01",
+        "img" : "https://imageio.forbes.com/specials-images/imageserve/1023149898/0x0.jpg?format=jpg&crop=8688,4887,x0,y242,safe&width=1200",
+        "review" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    },
+    {
+        "id" : "02",
+        "name" : "Client 02",
+        "img" : "",
+        "review" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    },
+    {
+        "id" : "03",
+        "name" : "Client 03",
+        "img" : "",
+        "review" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    }
+
+    
+]

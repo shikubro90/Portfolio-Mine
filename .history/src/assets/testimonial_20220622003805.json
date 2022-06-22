@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "01",
+        "name" : "Client 01",
+        "img" : "",
+        "review" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    },
+    {
+        "id" : "02",
+        "name" : "Client 02",
+        "img" : "",
+        "review" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    },
+    {
+        "id" : "01",
+        "name" : "Client 01",
+        "img" : "",
+        "review" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy"
+    }
+
+    
+]
