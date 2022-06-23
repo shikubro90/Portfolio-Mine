@@ -8,8 +8,8 @@ const footer = () => {
     return (
         <section id='#footer'>
             <footer>
-                <a href="#" className='footer__logo'>Shiku</a>
-                <ul className='permalinks'>
+                <a href="#" className='footer__logo'>EGATOR</a>
+                <ul className='permalink'>
                     <li><a href="#">Home</a></li>
                     <li><a href="#about">About</a></li>
                     <li><a href="#experience">Experience</a></li>
@@ -28,7 +28,7 @@ const footer = () => {
 
                 <div className="footer__copyright">
                     <small>
-                        &copy; Shiku Bro Deserve All Right
+                        &copy; Shiku Bro Des
                     </small>
                 </div>
 

@@ -9,7 +9,7 @@ const footer = () => {
         <section id='#footer'>
             <footer>
                 <a href="#" className='footer__logo'>Shiku</a>
-                <ul className='permalinks'>
+                <ul className='permalink'>
                     <li><a href="#">Home</a></li>
                     <li><a href="#about">About</a></li>
                     <li><a href="#experience">Experience</a></li>

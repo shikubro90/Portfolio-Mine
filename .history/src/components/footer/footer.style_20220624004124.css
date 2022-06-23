@@ -10,7 +10,7 @@ footer a{
 }
 
 .footer__logo{
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 500;
     margin-bottom: 2rem;
     display: inline-block;
@@ -20,9 +20,8 @@ footer a{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom: 3rem;
     gap: 2rem;
-    padding: 0;
-    margin: 0 auto 3rem;
 }
 .footer__socials{
     display: flex;
@@ -37,27 +36,8 @@ footer a{
     border-radius: 0.7rem;
     display: flex;
     border: 1px solid transparent;
-    transition: var(--transition);
 }
 
-.footer__socials a:hover{
-    background: transparent;
-    color: var(--color-bg);
-    border-color: var(--color-bg);
-
-}
-
-.footer__copyright{
-    color: var(--color-bg);
-    margin-bottom: 4rem;
-}
-
-@media screen and (max-width : 600px) {
-    .permalinks{
-        flex-direction: column;
-        gap: 1.5rem;
-    }
-    .footer__socials{
-        margin-bottom: 2.6rem;
-    }
+.footer__social a:hover{
+    background: tran;
 }
